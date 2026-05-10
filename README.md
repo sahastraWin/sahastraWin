@@ -1,5 +1,50 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
+</div>
+
 # 💫 About Me:
-🔭 I’m currently working on<br>Refining netops-ai-copilot, an AI-driven Network Operations tool that leverages LLMs to automate incident response and infrastructure management.<br><br>👯 I’m looking to collaborate on<br>Open-source projects Full-stack applications built with Next.js and Spring Boot.<br><br>🤝 I’m looking for help with<br>Optimizing model efficiency for deployment and scaling RAG (Retrieval-Augmented Generation) pipelines for production-level apps.<br><br>🌱 I’m currently learning<br>The frontier of AI Orchestration: LangGraph, Multi-Agent Systems (MAS), and the Model Context Protocol (MCP) to build more autonomous developer workflows.<br><br>💬 Ask me about<br><br>Java Backend: Spring Boot, Spring Security, and building robust User Management Systems.<br><br>Full-stack Web: Creating real-time apps with Next.js, TypeScript, and Convex/Prisma.<br><br>Problem Solving: Data structures and algorithmic logic (C++/Java).<br><br>⚡ Fun fact<br>I once built a five-step user-access resolution pipeline for an ERP portal that handled group grants, individual blocks, and deduplication all in one go! at NITTTR Bhopal M.P India
+
+🔭 **I'm currently working on**<br>
+Refining **netops-ai-copilot**, an AI-driven Network Operations tool that leverages LLMs to automate incident response and infrastructure management.
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="AI Brain"/>
+
+<br>
+
+👯 **I'm looking to collaborate on**<br>
+Open-source projects & Full-stack applications built with **Next.js** and **Spring Boot**.
+
+<br>
+
+🤝 **I'm looking for help with**<br>
+Optimizing model efficiency for deployment and scaling **RAG (Retrieval-Augmented Generation)** pipelines for production-level apps.
+
+<br>
+
+🌱 **I'm currently learning**<br>
+The frontier of AI Orchestration: **LangGraph**, **Multi-Agent Systems (MAS)**, and the **Model Context Protocol (MCP)** to build more autonomous developer workflows.
+<img align="right" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" alt="Learning"/>
+
+<br>
+
+💬 **Ask me about**
+
+- ☕ **Java Backend:** Spring Boot, Spring Security, and building robust User Management Systems.
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Java Dev"/>
+
+- 🌐 **Full-stack Web:** Creating real-time apps with Next.js, TypeScript, and Convex/Prisma.
+
+- 🧠 **Problem Solving:** Data structures and algorithmic logic (C++/Java).
+
+<br>
+
+⚡ **Fun fact**<br>
+I once built a **five-step user-access resolution pipeline** for an ERP portal that handled group grants, individual blocks, and deduplication all in one go! — at **NITTTR Bhopal, M.P, India**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt="wave"/>
+  <br/>
+  <em>Feel free to reach out — I love connecting with people!</em>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahastrajeet.hardaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahastrajeet-hardaha-4973612b6) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/5vRW3AQbj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahastrajeet@gmail.com) 
