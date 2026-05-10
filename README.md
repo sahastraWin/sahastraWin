@@ -21,10 +21,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahastraWin&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="git"/>
-  <strong> GitHub Activity</strong>
-</div>
 ![](https://github-profile-trophy.vercel.app/?username=sahastraWin&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4)
 
 
