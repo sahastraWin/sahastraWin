@@ -6,11 +6,7 @@
 
 🔭 **I'm currently working on**<br>
 Refining **netops-ai-copilot**, an AI-driven Network Operations tool that leverages LLMs to automate incident response and infrastructure management.
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       width="200" 
-       style="border-radius:50%; overflow:hidden;"/>
-</p><br>
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260" alt="Backend Code"/><br>
 
 👯 **I'm looking to collaborate on**<br>
 Open-source projects & Full-stack applications built with **Next.js** and **Spring Boot**.
