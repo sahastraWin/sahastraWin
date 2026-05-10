@@ -29,10 +29,7 @@ The frontier of AI Orchestration: **LangGraph**, **Multi-Agent Systems (MAS)**, 
 💬 **Ask me about**
 
 - ☕ **Java Backend:** Spring Boot, Spring Security, and building robust User Management Systems.
-<img align="right" src="https://media.giphy.com/media/ZVik7pIojeZloBOm7M/giphy.gif" 
-  width="200" 
-  style="border-radius: 50%; border: 3px solid #ED8B00;"
-  alt="Java Dev"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Java Dev"/>
 
 - 🌐 **Full-stack Web:** Creating real-time apps with Next.js, TypeScript, and Convex/Prisma.
 
