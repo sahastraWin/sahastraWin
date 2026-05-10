@@ -6,7 +6,7 @@
 
 🔭 **I'm currently working on**<br>
 Refining **netops-ai-copilot**, an AI-driven Network Operations tool that leverages LLMs to automate incident response and infrastructure management.
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260" alt="Backend Code"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 <br>
 
