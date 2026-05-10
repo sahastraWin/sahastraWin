@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Refining netops-ai-copilot, an AI-driven Network Operations tool that leverages LLMs to automate incident response and infrastructure management.<br><br>👯 I’m looking to collaborate on<br>Open-source projects Full-stack applications built with Next.js and Spring Boot.<br><br>🤝 I’m looking for help with<br>Optimizing model efficiency for deployment and scaling RAG (Retrieval-Augmented Generation) pipelines for production-level apps.<br><br>🌱 I’m currently learning<br>The frontier of AI Orchestration: LangGraph, Multi-Agent Systems (MAS), and the Model Context Protocol (MCP) to build more autonomous developer workflows.<br><br>💬 Ask me about<br><br>Java Backend: Spring Boot, Spring Security, and building robust User Management Systems.<br><br>Full-stack Web: Creating real-time apps with Next.js, TypeScript, and Convex/Prisma.<br><br>Problem Solving: Data structures and algorithmic logic (C++/Java).<br><br>⚡ Fun fact<br>I once built a five-step user-access resolution pipeline for an ERP portal that handled group grants, individual blocks, and deduplication all in one go! at NITTTR Bhopal M.P India
-
+<p align="left">
+<img src="https://leetcode-stats-six.vercel.app/?username=sahastraWin&theme=dark" alt="sahastraWin's LeetCode Stats" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahastrajeet.hardaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahastrajeet-hardaha-4973612b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahastrajeet@gmail.com) 
