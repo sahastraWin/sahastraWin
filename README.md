@@ -21,7 +21,6 @@ Optimizing model efficiency for deployment and scaling **RAG (Retrieval-Augmente
 🌱 **I'm currently learning**<br>
 The frontier of AI Orchestration: **LangGraph**, **Multi-Agent Systems (MAS)**, and the **Model Context Protocol (MCP)** to build more autonomous developer workflows.
 
-
 <br>
 
 💬 **Ask me about**
@@ -49,6 +48,18 @@ I once built a **five-step user-access resolution pipeline** for an ERP portal t
 
 ### 🏆 Competitive Programming:
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/sahastrajeet_hardaha) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/sahastraWin/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23298D46.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sahastrawin69?tab=activity)
+
+### 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://codeforces.com/profile/sahastrajeet_hardaha">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sahastrajeet_hardaha&theme=tokyonight" alt="Codeforces Stats" height="180px"/>
+  </a>
+</p>
+
+- 🚀 **Handle**: [sahastrajeet_hardaha](https://codeforces.com/profile/sahastrajeet_hardaha)
+- 💻 **Languages**: Primarily optimizing problem-solving strategies in C++ 
+- 🎯 **Focus Areas**: Data Structures, Advanced Algorithms, and Bit Manipulation
 
 <!-- Snake Game Repo View -->
 
