@@ -46,12 +46,34 @@ I once built a **five-step user-access resolution pipeline** for an ERP portal t
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahastrajeet.hardaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahastrajeet-hardaha-4973612b6) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/5vRW3AQbj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahastrajeet@gmail.com) 
 
-### 🏆 Competitive Programming:
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/sahastrajeet_hardaha) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/sahastraWin/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23298D46.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sahastrawin69?tab=activity)
+### 🏆 Competitive Programming & Problem Solving
 
-- 🚀 **Handle**: [sahastrajeet_hardaha](https://codeforces.com/profile/sahastrajeet_hardaha)
-- 💻 **Languages**: Primarily optimizing problem-solving strategies in C++ 
-- 🎯 **Focus Areas**: Data Structures, Advanced Algorithms, and Bit Manipulation
+<table border="0">
+  <tr>
+    <!-- Codeforces Card -->
+    <td align="center" valign="top" width="33%">
+      <a href="https://codeforces.com/profile/sahastrajeet_hardaha">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sahastrajeet_hardaha&theme=tokyonight" alt="Codeforces Stats" height="175px"/>
+      </a>
+    </td>
+    <!-- LeetCode Card -->
+    <td align="center" valign="top" width="33%">
+      <a href="https://leetcode.com/u/sahastraWin/">
+        <img src="https://github-readme-leetcode-card.romitsagu.com/sahastraWin?theme=tokyonight" alt="LeetCode Stats" height="175px"/>
+      </a>
+    </td>
+    <!-- GeeksforGeeks Card -->
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.geeksforgeeks.org/profile/sahastrawin69">
+        <img src="https://gfgstatscard.vercel.app/sahastrawin69?theme=dark" alt="GeeksforGeeks Stats" height="175px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+- 🚀 **Profiles**: [Codeforces](https://codeforces.com/profile/sahastrajeet_hardaha) | [LeetCode](https://leetcode.com/u/sahastraWin/) | [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sahastrawin69)
+- 💻 **Core Language**: Optimizing logic and writing efficient algorithms primarily using C++
+- 🎯 **Focus Areas**: Advanced Data Structures, Binary Search on Answer, and Bit Manipulation
 
 <!-- Snake Game Repo View -->
 
