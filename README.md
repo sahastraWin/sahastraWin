@@ -72,10 +72,6 @@ I once built a **five-step user-access resolution pipeline** for an ERP portal t
 - 💻 **Core Language**: Optimizing logic and writing efficient algorithms primarily using C++
 - 🎯 **Focus Areas**: Advanced Data Structures, Binary Search on Answer, and Bit Manipulation
 
-- 🚀 **Profiles**: [Codeforces](https://codeforces.com/profile/sahastrajeet_hardaha) | [LeetCode](https://leetcode.com/u/sahastraWin/) | [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sahastrawin69)
-- 💻 **Core Language**: Optimizing logic and writing efficient algorithms primarily using C++
-- 🎯 **Focus Areas**: Advanced Data Structures, Binary Search on Answer, and Bit Manipulation
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
