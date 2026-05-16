@@ -50,26 +50,27 @@ I once built a **five-step user-access resolution pipeline** for an ERP portal t
 
 <table border="0">
   <tr>
-    <!-- Codeforces Card -->
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="middle" width="33%">
       <a href="https://codeforces.com/profile/sahastrajeet_hardaha">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sahastrajeet_hardaha&theme=tokyonight" alt="Codeforces Stats" height="175px"/>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sahastrajeet_hardaha&theme=tokyonight" alt="Codeforces Stats" style="max-height: 165px; width: auto;"/>
       </a>
     </td>
-    <!-- LeetCode Card -->
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="middle" width="33%">
       <a href="https://leetcode.com/u/sahastraWin/">
-        <img src="https://github-readme-leetcode-card.romitsagu.com/sahastraWin?theme=tokyonight" alt="LeetCode Stats" height="175px"/>
+        <img src="https://github-readme-leetcode-card.romitsagu.com/sahastraWin?theme=tokyonight" alt="LeetCode Stats" style="max-height: 165px; width: auto;"/>
       </a>
     </td>
-    <!-- GeeksforGeeks Card -->
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="middle" width="33%">
       <a href="https://www.geeksforgeeks.org/profile/sahastrawin69">
-        <img src="https://gfgstatscard.vercel.app/sahastrawin69?theme=dark" alt="GeeksforGeeks Stats" height="175px"/>
+        <img src="https://gfgstatscard.vercel.app/sahastrawin69?theme=dark" alt="GeeksforGeeks Stats" style="max-height: 165px; width: auto;"/>
       </a>
     </td>
   </tr>
 </table>
+
+- 🚀 **Profiles**: [Codeforces](https://codeforces.com/profile/sahastrajeet_hardaha) | [LeetCode](https://leetcode.com/u/sahastraWin/) | [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sahastrawin69)
+- 💻 **Core Language**: Optimizing logic and writing efficient algorithms primarily using C++
+- 🎯 **Focus Areas**: Advanced Data Structures, Binary Search on Answer, and Bit Manipulation
 
 - 🚀 **Profiles**: [Codeforces](https://codeforces.com/profile/sahastrajeet_hardaha) | [LeetCode](https://leetcode.com/u/sahastraWin/) | [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sahastrawin69)
 - 💻 **Core Language**: Optimizing logic and writing efficient algorithms primarily using C++
